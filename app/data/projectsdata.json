@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Contact Management App",
+      "description": "A Laravel-based contact manager with CRUD operations, advanced filtering (age, city, gender, activity), CSV import/export, and PDF generation. Designed with a modern landing page and secure authentication system.",
+      "image": "/contactapp.jpg",
+      "tags": ["Laravel", "PHP", "MySQL", "Tailwind CSS"],
+      "code": "https://github.com/theonlyamjad/contactapp",
+      "demo": ""
+    },
+    {
+      "id": 2,
+      "title": "Perfekt Deutsch Akademie",
+      "description": "A professional, animated website for a German language academy built with Next.js, Tailwind, Framer Motion, and CMS integration. Fully responsive with clean UI, footer navigation, and custom domain setup.",
+      "image": "/pda.jpg",
+      "tags": ["Next.js", "Tailwind CSS", "Framer Motion", "shadcnui", "Magic UI"],
+      "code": "",
+      "demo": "https://pdakademie.ma"
+    },
+    {
+      "id": 3,
+      "title": "My Portfolio Website",
+      "description": "A modern, animated portfolio built with Next.js, featuring dynamic sections, smooth page transitions, and a dark theme toggle to showcase projects and skills.",
+      "image": "/myportfolio.jpg",
+      "tags": ["Next.js", "Tailwind CSS", "Framer Motion", "shadcn/ui"],
+      "code": "https://github.com/theonlyamjad/myportfolio",
+      "demo": "https://myportfolio-gcf1mu9v4-amjads-projects-cae1f7ec.vercel.app/"
+    },
+    {
+      "id": 4,
+      "title": "Brutalic Portfolio",
+      "description": "A modern, brutalic design portfolio built with Next.js,to showcase projects and skills.",
+      "image": "/brutalic_portfolio.jpg",
+      "tags": ["Next.js", "Typescript", "Tailwind CSS"],
+      "code": "",
+      "demo": ""
+    }
+  ]
+}
